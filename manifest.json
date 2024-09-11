@@ -5,7 +5,7 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "img/simulator.png",
+            "src": "img/simulador.png",
             "sizes": "512x512",
             "type": "image/png"
         }
